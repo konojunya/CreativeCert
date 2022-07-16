@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "creativecert"
+  },
+  "targets": {
+    "creativecert": {
+      "hosting": {
+        "mint-site": [
+          "creativecert"
+        ],
+        "creative": [
+          "creative-cert-key"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

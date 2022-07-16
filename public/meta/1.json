@@ -1,0 +1,16 @@
+{
+  "name": "CreativeCert #1",
+  "description": "CreativeCert is an experimental project to verify the use of NFT as a security key",
+  "image": "https://creativecert.web.app/image/creativecert.png",
+  "animation_url": "https://creative-cert-key.web.app/",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "JJ"
+    },
+    {
+      "trait_type": "Design",
+      "value": "Houndstooth"
+    }
+  ]
+}
