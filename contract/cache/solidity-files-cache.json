@@ -507,8 +507,8 @@
       }
     },
     "test/NFT.t.sol": {
-      "lastModificationDate": 1657964286035,
-      "contentHash": "9f972e23bd76f6f6afe213ef0a9d95b4",
+      "lastModificationDate": 1657967241962,
+      "contentHash": "51d0f74af2b43cb52ed21d32492b2d3b",
       "sourceName": "test/NFT.t.sol",
       "solcConfig": {
         "settings": {
@@ -553,6 +553,9 @@
       "artifacts": {
         "ContractTest": {
           "0.8.15+commit.e14f2714.Darwin.appleclang": "NFT.t.sol/ContractTest.json"
+        },
+        "Receiver": {
+          "0.8.15+commit.e14f2714.Darwin.appleclang": "NFT.t.sol/Receiver.json"
         }
       }
     }
